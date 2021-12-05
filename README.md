@@ -6,7 +6,7 @@ Horiseon is a marketing agency offering search engine optimization, online reput
 
 Client requested a codebase that follows accessibility standards to optimize their site for seach engines. 
 
-Find the linked application here: [Horiseon - Home](#)
+Find the linked application here: [Horiseon - Home](https://kalecodes.github.io/challenge-one/)
 
 ![](./assets/images/Horiseon-screenshot-1.png)
 ![](./assets/images/Horiseon-screenshot-2.png)
